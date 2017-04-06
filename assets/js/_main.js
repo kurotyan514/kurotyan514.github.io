@@ -3,7 +3,10 @@
    ========================================================================== */
 
 $(document).ready(function(){
-
+  // jquery ui
+  $('.tabs').tabs({
+    event: "mouseover"
+  });
   // Sticky footer
   var bumpIt = function() {
       $('body').css('margin-bottom', $('.page__footer').outerHeight(true));
@@ -68,5 +71,4 @@ $(document).ready(function(){
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
-
 });
