@@ -80,10 +80,10 @@ analytics:
 author:
   name             : "Kuro Sean"
   avatar           : "/assets/images/avator.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
+  bio              : "Rails developer\n"
   location         : "Taiwan Taipei"
   email            :
-  uri              :
+  uri              : "https://kurotyan514.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :

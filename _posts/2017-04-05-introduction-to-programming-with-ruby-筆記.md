@@ -1,7 +1,7 @@
 ---
 layout: single
 title: INTRODUCTION TO PROGRAMMING WITH RUBY 筆記
-excerpt: 
+excerpt: 紀錄一下讀完 INTRODUCTION TO PROGRAMMING WITH RUBY 吸收到的新知識。
 ---
 # variable
 在 `times` & `each` 裡無法初始化變數
